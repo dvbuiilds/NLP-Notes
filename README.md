@@ -1,6 +1,6 @@
 # Get Started with NLP
 This repository covers the basic topics for NLP.
-Notes have been made with the help of NLP tutorials of @krishnaik06 (Krish Naik) and some blogs from Towards Data Science.
+Notes have been made with the help of NLP tutorials of [@krishnaik06 (Krish Naik)](https://github.com/krishnaik06/) and some blogs from Towards Data Science.
 
 ## Topics
 #### Tokenization
